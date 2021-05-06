@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1",
+    "twit": "^2.2.11"
+  },
+  "name": "elon",
+  "version": "1.0.0",
+  "main": "elon.js",
+  "license": "MIT"
+}
